@@ -1,2 +1,3 @@
-# myFirstModel
-test - first model
+Code repository for Linear Regression and Random forest. 
+Dataset - delaney_solubility_with_descriptors
+https://github.com/dataprofessor/data/blob/master/delaney_solubility_with_descriptors.csv
